@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in our project **Predicting Technology-Sector Acquisitions using Machine Learning Methods**. This project is part of our MSc in Financial Engineering capstone at WQU and is collaboratively developed by **Dinesh Naresh Advani** (@Advani36) and **Chandana Deeksha Pulavarthi** (@d33ksh2).
+Thank you for your interest in our project **Predicting Technology-Sector Acquisitions using Machine Learning Methods**. This project is part of our MSc in Financial Engineering capstone at WQU and is collaboratively developed by **Dinesh Naresh Advani** ([@Advani36](https://github.com/Advani36)) and **Chandana Deeksha Pulavarthi** ([@d33ksh2](https://github.com/d33ksh2)).
 
 ## Repository Access
 
